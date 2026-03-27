@@ -42,9 +42,6 @@ I genuinely love what I do — whether it's architecting a full-stack applicatio
   <a href="https://www.instagram.com/rawenzgarni/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.topcoder.com/members/1800" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="TopCoder" height="30" width="40" />
-  </a>
 </p>
 
 ---
@@ -106,16 +103,18 @@ I genuinely love what I do — whether it's architecting a full-stack applicatio
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zgarnirawen&show_icons=true&locale=en&layout=compact&theme=nord" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=zgarnirawen&show_icons=true&locale=en&layout=compact&theme=nord" alt="Top Languages" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zgarnirawen&show_icons=true&locale=en&theme=nord" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zgarnirawen&show_icons=true&locale=en&theme=nord" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zgarnirawen&theme=nord" alt="GitHub Streak" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=zgarnirawen&theme=nord" alt="GitHub Streak" />
 </p>
+
+> 💡 **Stats not loading?** The original `github-readme-stats.vercel.app` has been permanently paused since early 2026. These cards use a community mirror. For a permanent fix, fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), deploy your own free Vercel instance, and replace the URL above with yours.
 
 ---
 
