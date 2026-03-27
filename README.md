@@ -36,10 +36,10 @@ I genuinely love what I do — whether it's architecting a full-stack applicatio
   <a href="https://linkedin.com/in/rawen-zgarni-767117364" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/rawen zgarni" target="_blank">
+  <a href="https://www.facebook.com/zgarni.rawen" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/rawen zgarni" target="_blank">
+  <a href="https://www.instagram.com/rawenzgarni/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.topcoder.com/members/1800" target="_blank">
