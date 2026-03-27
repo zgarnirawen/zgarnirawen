@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate software engineering student at École Nationale d'Ingénieurs de Carthage (ENICarthage), driven by curiosity and a constant desire to learn, build, and improve.
+I'm a passionate software engineering student at the National Engineering School of Carthage (ENICarthage), driven by curiosity and a constant desire to learn, build, and improve.
 
 I enjoy turning ideas into reality — whether it's designing and developing full-stack applications, exploring system internals, or experimenting with emerging technologies. I'm particularly drawn to complex problems and understanding how things work under the hood.
 
