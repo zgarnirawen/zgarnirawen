@@ -15,19 +15,20 @@
 
 ## 🧠 About Me
 
-I'm a passionate software engineering student at **ENICarthage (École Nationale d'Ingénieurs de Carthage)**, constantly building, breaking, and learning things.
+I'm a passionate software engineering student at École Nationale d'Ingénieurs de Carthage (ENICarthage), driven by curiosity and a constant desire to learn, build, and improve.
 
-I genuinely love what I do — whether it's architecting a full-stack application from scratch, diving deep into system internals, or experimenting with emerging tech. I'm the kind of person who opens a terminal for fun.
+I enjoy turning ideas into reality — whether it's designing and developing full-stack applications, exploring system internals, or experimenting with emerging technologies. I'm particularly drawn to complex problems and understanding how things work under the hood.
 
-- 🔥 **Passionate** about building real, impactful software
-- 🏫 Studying **Software Engineering** at **ENICarthage**, Tunisia
-- 🐧 **Linux enthusiast** — I live in the terminal and wouldn't have it any other way
-- 🚀 Currently leveling up with **Kubernetes** and container orchestration
-- 🔐 Exploring the world of **Cybersecurity** — because understanding how things break is just as important as building them
-- 🤖 Curious about **MLOps** — bridging the gap between machine learning and production systems
-- 💡 I've worked on meaningful projects across web development, data, and systems — always aiming for clean code and solid architecture
+I value learning by doing, and I continuously strengthen my skills through building, experimenting, and refining ideas.
+
+- 🔥 Passionate about building real, impactful software  
+- 🏫 Studying Software Engineering at ENICarthage, Tunisia  
+- 🐧 Linux enthusiast  
+- 🚀 Currently learning Kubernetes and container orchestration  
+- 🔐 Exploring cybersecurity — understanding how systems break as well as how to build them  
+- 🤖 Interested in MLOps and production-ready machine learning systems  
+- 💡 Experience with projects across web development, data, and systems, with a focus on clean code and solid architecture  
 - 📫 Reach me at **rawenzgarni1@gmail.com**
-
 ---
 
 ## 🌐 Connect with Me
@@ -114,7 +115,6 @@ I genuinely love what I do — whether it's architecting a full-stack applicatio
   <img align="center" src="https://streak-stats.demolab.com/?user=zgarnirawen&theme=nord" alt="GitHub Streak" />
 </p>
 
-> 💡 **Stats not loading?** The original `github-readme-stats.vercel.app` has been permanently paused since early 2026. These cards use a community mirror. For a permanent fix, fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), deploy your own free Vercel instance, and replace the URL above with yours.
 
 ---
 
