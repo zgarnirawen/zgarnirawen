@@ -116,3 +116,4 @@ I value learning by doing, and I continuously strengthen my skills through build
 <p align="center">
   <i>"The best way to learn is to build things that matter."</i>
 </p>
+![snake gif](https://github.com/zgarnirawen/zgarnirawen/blob/output/github-contribution-grid-snake.svg)
