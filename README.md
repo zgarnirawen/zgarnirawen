@@ -23,10 +23,10 @@
 ```text
 ┌──────────────────────────────────────────────────────────────────────┐
 │                                                                      │
-│   RAWEN ZGARNI                                                        │
+│   RAWEN ZGARNI                                                       │
 │                                                                      │
-│   Computer Engineering Student                                      │
-│   ENICarthage · Tunisia                                             │
+│   Computer Engineering Student                                       │
+│   ENICarthage · Tunisia                                              │
 │                                                                      │
 │   Interested in AI, MLOps, DevOps, systems and automation.           │
 │                                                                      │
