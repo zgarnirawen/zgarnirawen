@@ -1,273 +1,424 @@
-# `rawen@github:~$ ./profile`
+<h1 align="center">
+  <font color="#00ff88">rawen@github</font><font color="#7c3aed">:</font><font color="#38bdf8">~</font><font color="#7c3aed">$</font> whoami
+</h1>
+
+<p align="center">
+  <strong>Computer Engineering Student</strong>
+  <br>
+  <font color="#00ff88">AI</font> ·
+  <font color="#38bdf8">MLOps</font> ·
+  <font color="#a78bfa">DevOps</font> ·
+  <font color="#00ff88">Systems</font> ·
+  <font color="#38bdf8">Automation</font>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zgarnirawen">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/AI-000000?style=flat-square&logoColor=%2300ff88">
+  <img src="https://img.shields.io/badge/MLOps-000000?style=flat-square&logoColor=%2338bdf8">
+  <img src="https://img.shields.io/badge/DevOps-000000?style=flat-square&logoColor=%23a78bfa">
+</p>
+
+---
+
+<h2>
+  <font color="#00ff88">$</font> ./initialize.sh
+</h2>
 
 ```text
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   RAWEN ZGARNI                                                        │
-│   Computer Engineering Student                                      │
-│                                                                      │
-│   AI  ·  MLOps  ·  DevOps  ·  Systems  ·  Automation                │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│                         SYSTEM PROFILE                              │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  NAME        : Rawen Zgarni                                         │
+│  ROLE        : Computer Engineering Student                         │
+│  LOCATION    : Tunisia                                              │
+│  ENVIRONMENT : Linux · Docker · Git · GitHub Actions · Ansible      │
+│  INTERESTS   : AI · MLOps · DevOps · Infrastructure · Automation   │
+│                                                                     │
+│  STATUS      : Building systems / learning / experimenting         │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
+<h2>
+  <font color="#38bdf8">$</font> cat about.txt
+</h2>
+
+I am a **Computer Engineering student at ENICarthage, Tunisia**, interested in the intersection between **AI and infrastructure**.
+
+Rather than focusing only on building applications, I enjoy exploring what happens behind them: designing systems, connecting services, automating workflows, deploying applications, working with Linux environments, and making AI systems usable in real-world environments.
+
+My current direction is centered around:
+
 ```text
-rawen@github:~$ whoami
+AI / Generative AI
+        +
+MLOps
+        +
+DevOps & CI/CD
+        +
+Linux / Infrastructure
+        +
+Automation
+```
 
-Computer Engineering student at ENICarthage, Tunisia.
+I like learning by **building, deploying, breaking, debugging, and improving systems**.
 
-I am interested in what happens beyond the application itself:
-how intelligent systems are built, deployed, automated, monitored,
-and made reliable in real environments.
+---
 
-My current interests sit at the intersection of:
+<h2>
+  <font color="#a78bfa">$</font> tree ~/skills
+</h2>
 
-    AI / ML Systems
-    MLOps
-    DevOps & CI/CD
-    Linux & Infrastructure
-    Containers & Deployment
-    Automation
-    Distributed Systems
-    Data & Backend Systems
+```text
+~/skills
+│
+├── ai/
+│   ├── LLMs
+│   ├── Generative AI
+│   ├── AI Agents
+│   ├── NLP
+│   ├── RAG
+│   ├── LangGraph
+│   └── pgvector
+│
+├── ml-data/
+│   ├── Python
+│   ├── pandas
+│   ├── scikit-learn
+│   └── data processing
+│
+├── devops/
+│   ├── Docker
+│   ├── GitHub Actions
+│   ├── Ansible
+│   ├── CI/CD
+│   ├── Linux
+│   └── deployment
+│
+├── backend/
+│   ├── Python
+│   ├── TypeScript
+│   ├── Java
+│   ├── FastAPI
+│   ├── Express
+│   ├── NestJS
+│   └── Spring Boot
+│
+├── databases/
+│   ├── PostgreSQL
+│   ├── MySQL
+│   ├── MongoDB
+│   └── SQLite
+│
+└── frontend-mobile/
+    ├── React
+    ├── Next.js
+    ├── Angular
+    ├── React Native
+    └── Android
 ```
 
 ---
 
-## `system.info`
+<h2>
+  <font color="#00ff88">$</font> ./current_focus
+</h2>
 
-```text
-OS              Linux / Rocky Linux / Ubuntu
-Environment     Docker · Git · GitHub Actions · Ansible
-Cloud / Infra   Self-hosted infrastructure · Servers · Networking
-AI              LLMs · RAG · NLP · AI Agents
-Backend         Python · TypeScript · Java · REST APIs
-Data            PostgreSQL · MySQL · MongoDB · SQLite
-Frontend        React · Next.js · Angular
-Mobile          React Native · Expo · Android
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3><font color="#00ff88">AI SYSTEMS</font></h3>
+
+Exploring practical AI systems around:
+
+* LLM applications
+* AI agents
+* RAG pipelines
+* NLP
+* intent recognition
+* natural-language interfaces
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3><font color="#38bdf8">MLOps</font></h3>
+
+Learning how AI systems move beyond experimentation through:
+
+* reproducible environments
+* deployment
+* automation
+* validation
+* monitoring
+* infrastructure
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3><font color="#a78bfa">DEVOPS</font></h3>
+
+Working with:
+
+* Docker
+* GitHub Actions
+* Ansible
+* Linux servers
+* CI/CD pipelines
+* deployment automation
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3><font color="#00ff88">SYSTEMS</font></h3>
+
+Interested in:
+
+* Linux administration
+* networking
+* self-hosted infrastructure
+* distributed services
+* observability
+* reliable deployments
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `current.focus`
+<h2>
+  <font color="#38bdf8">$</font> ls ~/projects
+</h2>
+
+### <font color="#00ff88">01.</font> Multilingual AI Productivity Assistant
 
 ```text
-[01] AI SYSTEMS
-     Building practical AI systems around LLMs, RAG,
-     intent recognition, agents and automation.
-
-[02] MLOps
-     Exploring the infrastructure required to move
-     machine-learning systems from experimentation
-     toward reproducible deployment.
-
-[03] DEVOPS
-     CI/CD pipelines, containerization, deployment
-     automation, infrastructure and observability.
-
-[04] SYSTEMS
-     Linux servers, networking, self-hosted services,
-     distributed components and production environments.
-```
-
----
-
-## `experience`
-
-```text
-2026
-└── AI Summer Internship — 3LM Solutions
-    └── Multilingual AI Productivity Assistant
-
-        React Native / Expo
-        TypeScript / Express
-        Groq / Llama 3.3
-        Intent & entity extraction
-        Speech-to-text
-        Prisma / SQLite
-        GitHub Actions CI
-        Regression & E2E validation
-
-
-2025
-└── Software Engineering Internship — NextGen Coding
-    └── Full-stack engineering
-
-        React / Next.js
-        Node.js / Express
-        Vue
-        MySQL
-```
-
----
-
-## `projects`
-
-### `Multilingual-AI-Productivity-Assistant`
-
-```text
-AI-powered productivity assistant designed around
+AI-powered productivity assistant focused on
 natural-language interaction.
 
 INPUT
-  text / voice
-       │
-       ▼
+  ├── text
+  └── voice
+        │
+        ▼
 INTELLIGENCE
-  intent detection
-  entity extraction
-  conversation
-       │
-       ▼
-ACTION
-  proposal
-       │
-       ▼
-CONFIRMATION
-       │
-       ▼
-EXECUTION
-
-Stack:
-TypeScript · Express · React Native · Expo
-Groq · Llama 3.3 · Prisma · SQLite
-Whisper · GitHub Actions
+  ├── intent detection
+  ├── entity extraction
+  └── conversation
+        │
+        ▼
+ACTION PROPOSAL
+        │
+        ▼
+USER CONFIRMATION
+        │
+        ▼
+ACTION EXECUTION
 ```
 
-### `Aria`
+**Stack:** TypeScript · Express · React Native · Expo · Groq · LLaMA · Prisma · SQLite · Speech-to-Text
+
+**Internship:** AI Summer Internship — 3LM Solutions
+
+---
+
+### <font color="#38bdf8">02.</font> Aria
 
 ```text
-Production-oriented AI agent platform.
+Production-oriented AI agent platform
 
-Backend       NestJS / Fastify / Prisma / PostgreSQL
-AI Agent      FastAPI / LangGraph / pgvector
-Workers       Python
-Infrastructure Docker / Ansible / Linux
-CI/CD         GitHub Actions
-Deployment    Self-hosted server infrastructure
+Backend       → NestJS / Fastify / Prisma / PostgreSQL
+AI Agent      → FastAPI / LangGraph / pgvector
+Workers       → Python
+Infrastructure → Docker / Ansible / Linux
+CI/CD         → GitHub Actions
+Deployment    → Self-hosted server
 ```
 
-### `Supervision des Livraisons`
+A multi-service environment where AI components, backend services, workers, databases and infrastructure need to work together as one system.
+
+---
+
+### <font color="#a78bfa">03.</font> Smart Document Assistant
 
 ```text
-Mobile + backend platform for delivery supervision.
+Documents
+    │
+    ▼
+Processing
+    │
+    ▼
+Embeddings
+    │
+    ▼
+Vector Database
+    │
+    ▼
+RAG
+    │
+    ▼
+LLM
+    │
+    ▼
+Answer
+```
 
-Android / Java
-Spring Boot
-PostgreSQL / Oracle
+**Focus:** RAG · document processing · vector search · LLM integration · automation
+
+---
+
+### <font color="#00ff88">04.</font> Delivery Supervision Platform
+
+```text
+Android Application
+        │
+        ▼
+Spring Boot API
+        │
+   ┌────┴────┐
+   ▼         ▼
+PostgreSQL  Oracle
+   │
+   ▼
 Firebase / FCM
-JWT
 ```
 
-### `ENICarthage Forum`
+Mobile and backend platform developed around delivery supervision workflows.
+
+**Stack:** Java · Android · Spring Boot · PostgreSQL · Oracle · Firebase · JWT
+
+---
+
+### <font color="#38bdf8">05.</font> ENICarthage Forum
 
 ```text
-Collaborative platform combining:
-
-Spring Boot
 Angular
-MySQL
-JWT
-WebSockets
-Python-based AI components
-
-Focus:
-workflow automation · role-based systems ·
-task management · dashboards · AI-assisted features
+   │
+   ▼
+Spring Boot
+   │
+   ├── MySQL
+   ├── JWT
+   ├── WebSockets
+   └── AI components
 ```
+
+Collaborative platform involving role-based workflows, task management, dashboards, workshops and AI-assisted functionality.
 
 ---
 
-## `toolbox`
+<h2>
+  <font color="#a78bfa">$</font> cat experience.log
+</h2>
 
 ```text
-LANGUAGES
-────────────────────────────────────────────────────────────────
-C / C++       Java        Python
-TypeScript    JavaScript  SQL
+2026
+│
+├── 3LM Solutions
+│   └── AI Summer Internship
+│       └── Multilingual AI Productivity Assistant
+│
+└── Focus
+    ├── AI
+    ├── MLOps
+    ├── DevOps
+    └── Infrastructure
 
 
-AI / DATA
-────────────────────────────────────────────────────────────────
-LLMs          RAG         NLP
-LangGraph     pgvector    Groq
-scikit-learn  pandas      matplotlib
-
-
-INFRASTRUCTURE
-────────────────────────────────────────────────────────────────
-Linux         Docker      Ansible
-Git           GitHub      GitHub Actions
-CI/CD         PostgreSQL  Networking
-
-
-APPLICATION SYSTEMS
-────────────────────────────────────────────────────────────────
-FastAPI       Express     NestJS
-Spring Boot   Next.js     React
-Angular       React Native
+2025
+│
+└── NextGen Coding
+    └── Software Engineering Internship
+        ├── React
+        ├── Next.js
+        ├── Node.js
+        ├── Express
+        ├── Vue.js
+        └── MySQL
 ```
 
 ---
 
-## `working_on`
+<h2>
+  <font color="#00ff88">$</font> ./engineering_philosophy.sh
+</h2>
 
 ```text
-$ cat /etc/current-focus
+[01] Understand the system before automating it.
 
-AI agents
-RAG systems
-MLOps workflows
-CI/CD automation
-Self-hosted infrastructure
-Linux administration
-Monitoring & observability
-Deployment reliability
+[02] Prefer reproducible environments over manual operations.
+
+[03] Treat deployment as part of engineering.
+
+[04] Build systems that can be tested, observed and improved.
+
+[05] Learn by working with real infrastructure.
+
+[06] Keep experimenting.
 ```
 
 ---
 
-## `engineering.philosophy`
+<h2>
+  <font color="#38bdf8">$</font> git log --oneline
+</h2>
 
 ```text
-$ ./principles.sh
-
-01  Understand the system before automating it.
-
-02  Prefer reproducible environments over manual operations.
-
-03  Treat deployment as part of engineering, not an afterthought.
-
-04  Build systems that can be observed, tested and rolled back.
-
-05  Learn by running things in real environments.
+AI systems
+MLOps experiments
+CI/CD pipelines
+Docker environments
+Linux infrastructure
+Automation
+Backend systems
+Mobile applications
 ```
 
 ---
 
-## `connect`
+<h2>
+  <font color="#a78bfa">$</font> ./connect.sh
+</h2>
 
 ```text
-$ ls ~/connect
-
-GitHub
-└── github.com/zgarnirawen
+┌──────────────────────────────────────────────┐
+│                                              │
+│   GitHub                                     │
+│   └── https://github.com/zgarnirawen         │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
+
+<p align="center">
+  <a href="https://github.com/zgarnirawen">
+    <font color="#00ff88">github.com/zgarnirawen</font>
+  </a>
+</p>
 
 ---
 
-## `github.contributions`
+<h2>
+  <font color="#00ff88">$</font> ./contributions
+</h2>
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/zgarnirawen/zgarnirawen/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zgarnirawen/zgarnirawen/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
 
 ---
 
-```text
-rawen@github:~$ systemctl status rawen
-
-● rawen.service - Computer Engineering / AI / Infrastructure
-   Loaded: loaded
-   Active: active (learning)
-
-rawen@github:~$ _
-```
+<p align="center">
+  <font color="#00ff88">rawen@github</font><font color="#7c3aed">:</font><font color="#38bdf8">~</font><font color="#7c3aed">$</font> <font color="#888888">systemctl status rawen</font>
+  <br>
+  <font color="#00ff88">● active</font> — learning, building, deploying
+</p>
