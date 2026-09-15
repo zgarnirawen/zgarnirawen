@@ -1,104 +1,129 @@
-<h1 align="center">
-
-`rawen@github:~$ whoami`
-
-</h1>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/COMPUTER_ENGINEERING-00ff88?style=for-the-badge&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/AI-38bdf8?style=for-the-badge&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/MLOps-a78bfa?style=for-the-badge&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/DevOps-00ff88?style=for-the-badge&labelColor=0d1117">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=rawen@github:~$&fontColor=00ff88&fontSize=38&fontAlignY=50&animation=fadeIn">
 </p>
 
 <p align="center">
-  <code>AI</code> &nbsp;·&nbsp;
-  <code>MLOps</code> &nbsp;·&nbsp;
-  <code>DevOps</code> &nbsp;·&nbsp;
-  <code>Systems</code> &nbsp;·&nbsp;
-  <code>Automation</code>
+  <img src="https://img.shields.io/badge/AI-00ff88?style=flat-square&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/MLOps-38bdf8?style=flat-square&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/DevOps-a78bfa?style=flat-square&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/Systems-00ff88?style=flat-square&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/Automation-38bdf8?style=flat-square&labelColor=0d1117">
+</p>
+
+<p align="center">
+  <strong>Computer Engineering Student · Tunisia</strong>
 </p>
 
 ---
 
-## `01` <span style="color:#00ff88">./initialize.sh</span>
+<p align="center">
+  <img src="https://img.shields.io/badge/$%20whoami-00ff88?style=for-the-badge&labelColor=0d1117">
+</p>
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   RAWEN ZGARNI                                               │
-│   Computer Engineering Student                              │
-│                                                             │
-│   Location    : Tunisia                                     │
-│   Environment : Linux / Docker / Git / GitHub               │
-│   Focus       : AI / MLOps / DevOps / Systems               │
-│                                                             │
-│   Status      : Learning · Building · Experimenting        │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│   RAWEN ZGARNI                                                        │
+│                                                                      │
+│   Computer Engineering Student                                      │
+│   ENICarthage · Tunisia                                             │
+│                                                                      │
+│   Interested in AI, MLOps, DevOps, systems and automation.           │
+│                                                                      │
+│   I like understanding what happens behind applications:             │
+│   infrastructure, deployment, automation, AI systems and             │
+│   the connections between all of them.                               │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/$%20./initialize.sh-00ff88?style=for-the-badge&labelColor=0d1117">
+</p>
+
+```text
+Initializing profile...
+
+[ OK ] Loading engineering interests
+[ OK ] Loading AI stack
+[ OK ] Loading infrastructure stack
+[ OK ] Loading current projects
+[ OK ] Loading system status
+
+System ready.
 ```
 
 ---
 
-## `02` <span style="color:#38bdf8">cat about.txt</span>
+<p align="center">
+  <img src="https://img.shields.io/badge/$%20cat%20about.txt-38bdf8?style=for-the-badge&labelColor=0d1117">
+</p>
 
-I am a **Computer Engineering student at ENICarthage, Tunisia**, interested in the intersection between **Artificial Intelligence, infrastructure, automation, and reliable systems**.
+I am a Computer Engineering student at **ENICarthage, Tunisia**, interested in the intersection of **Artificial Intelligence, infrastructure, automation and reliable systems**.
 
-I enjoy understanding what happens behind an application: how services communicate, how systems are deployed, how workflows can be automated, and how AI can be integrated into useful real-world systems.
-
-My current interests include:
+My focus is not limited to building applications. I am interested in what happens around them:
 
 ```text
-             ┌──────────────────────┐
-             │   ARTIFICIAL         │
-             │   INTELLIGENCE       │
-             └──────────┬───────────┘
-                        │
-                        ▼
-             ┌──────────────────────┐
-             │       MLOps          │
-             └──────────┬───────────┘
-                        │
-                        ▼
-             ┌──────────────────────┐
-             │   INFRASTRUCTURE     │
-             │   & DEVOPS           │
-             └──────────┬───────────┘
-                        │
-                        ▼
-             ┌──────────────────────┐
-             │     AUTOMATION       │
-             └──────────────────────┘
+        AI
+        │
+        ▼
+   AI SYSTEMS
+        │
+        ▼
+      MLOps
+        │
+        ▼
+  Infrastructure
+        │
+        ▼
+     DevOps
+        │
+        ▼
+   Automation
 ```
+
+I learn by building systems, deploying them, debugging them and understanding how their different components work together.
 
 ---
 
-## `03` <span style="color:#a78bfa">tree ~/skills</span>
+<p align="center">
+  <img src="https://img.shields.io/badge/$%20tree%20~%2Fskills-a78bfa?style=for-the-badge&labelColor=0d1117">
+</p>
 
 ```text
 ~/skills
 │
-├── AI & ML
+├── AI
 │   ├── LLMs
 │   ├── Generative AI
 │   ├── AI Agents
 │   ├── NLP
 │   ├── RAG
 │   ├── LangGraph
-│   ├── pgvector
-│   ├── scikit-learn
-│   └── pandas
+│   └── pgvector
 │
-├── DevOps & Infrastructure
+├── ML / DATA
+│   ├── Python
+│   ├── pandas
+│   ├── scikit-learn
+│   └── data processing
+│
+├── DEVOPS
 │   ├── Docker
 │   ├── Git
 │   ├── GitHub Actions
 │   ├── Ansible
-│   ├── Linux
 │   ├── CI/CD
-│   └── Server Deployment
+│   └── deployment
 │
-├── Backend
+├── SYSTEMS
+│   ├── Linux
+│   ├── Ubuntu
+│   ├── Rocky Linux
+│   ├── networking
+│   └── server environments
+│
+├── BACKEND
 │   ├── Python
 │   ├── TypeScript
 │   ├── Java
@@ -107,13 +132,13 @@ My current interests include:
 │   ├── NestJS
 │   └── Spring Boot
 │
-├── Databases
+├── DATABASES
 │   ├── PostgreSQL
 │   ├── MySQL
 │   ├── MongoDB
 │   └── SQLite
 │
-└── Frontend & Mobile
+└── APPLICATIONS
     ├── React
     ├── Next.js
     ├── Angular
@@ -124,116 +149,88 @@ My current interests include:
 
 ---
 
-## `04` <span style="color:#00ff88">./current_focus</span>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### AI
+<p align="center">
+  <img src="https://img.shields.io/badge/$%20./current_focus-00ff88?style=for-the-badge&labelColor=0d1117">
+</p>
 
 ```text
-LLMs
-AI Agents
-RAG
-NLP
-Intent Recognition
-Natural Language Interfaces
+[01] AI SYSTEMS
+
+     LLM applications
+     AI agents
+     RAG
+     NLP
+     intent recognition
+     natural-language interfaces
+
+
+[02] MLOps
+
+     reproducibility
+     validation
+     deployment
+     automation
+     monitoring
+     ML infrastructure
+
+
+[03] DEVOPS
+
+     Docker
+     GitHub Actions
+     Ansible
+     Linux
+     CI/CD
+     deployment automation
+
+
+[04] SYSTEMS
+
+     Linux administration
+     networking
+     self-hosted environments
+     distributed services
+     observability
+     reliability
 ```
-
-</td>
-
-<td width="50%" valign="top">
-
-### MLOps
-
-```text
-Reproducibility
-Validation
-Deployment
-Automation
-Infrastructure
-Monitoring
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### DevOps
-
-```text
-Docker
-GitHub Actions
-Ansible
-Linux
-CI/CD
-Deployment Automation
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-### Systems
-
-```text
-Linux Administration
-Networking
-Self-hosted Services
-Distributed Components
-Observability
-Reliability
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
-## `05` <span style="color:#38bdf8">ls ~/projects</span>
+<p align="center">
+  <img src="https://img.shields.io/badge/$%20ls%20~%2Fprojects-38bdf8?style=for-the-badge&labelColor=0d1117">
+</p>
 
 ### `01` — Multilingual AI Productivity Assistant
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                 AI PRODUCTIVITY ASSISTANT                   │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  TEXT / VOICE                                               │
-│       │                                                     │
-│       ▼                                                     │
-│  INTENT DETECTION                                           │
-│       │                                                     │
-│       ▼                                                     │
-│  ENTITY EXTRACTION                                          │
-│       │                                                     │
-│       ▼                                                     │
-│  ACTION PROPOSAL                                            │
-│       │                                                     │
-│       ▼                                                     │
-│  USER CONFIRMATION                                          │
-│       │                                                     │
-│       ▼                                                     │
-│  ACTION EXECUTION                                           │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│                  MULTILINGUAL AI ASSISTANT                           │
+│                                                                      │
+│   TEXT / VOICE                                                       │
+│        │                                                             │
+│        ▼                                                             │
+│   INTENT DETECTION                                                   │
+│        │                                                             │
+│        ▼                                                             │
+│   ENTITY EXTRACTION                                                  │
+│        │                                                             │
+│        ▼                                                             │
+│   ACTION PROPOSAL                                                    │
+│        │                                                             │
+│        ▼                                                             │
+│   USER CONFIRMATION                                                  │
+│        │                                                             │
+│        ▼                                                             │
+│   ACTION EXECUTION                                                   │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 **Stack**
 
-<img src="https://img.shields.io/badge/TypeScript-38bdf8?style=flat-square&labelColor=0d1117">
-<img src="https://img.shields.io/badge/Express-00ff88?style=flat-square&labelColor=0d1117">
-<img src="https://img.shields.io/badge/React_Native-a78bfa?style=flat-square&labelColor=0d1117">
-<img src="https://img.shields.io/badge/Expo-38bdf8?style=flat-square&labelColor=0d1117">
-<img src="https://img.shields.io/badge/Groq-00ff88?style=flat-square&labelColor=0d1117">
-<img src="https://img.shields.io/badge/Prisma-a78bfa?style=flat-square&labelColor=0d1117">
-<img src="https://img.shields.io/badge/SQLite-38bdf8?style=flat-square&labelColor=0d1117">
+`TypeScript` · `Express` · `React Native` · `Expo` · `Groq` · `LLaMA 3.3` · `Prisma` · `SQLite`
 
-**Focus:** multilingual interaction · LLM integration · intent detection · entity extraction · voice interaction · confirmation-based actions · automated validation
+**Focus:** multilingual interaction, LLM integration, intent detection, entity extraction, voice interaction, confirmation-based actions and automated validation.
 
 **2026 — AI Summer Internship at 3LM Solutions**
 
@@ -242,31 +239,28 @@ Reliability
 ### `02` — Delivery Supervision Platform
 
 ```text
-                 ┌──────────────────┐
-                 │  Android Client  │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │  Spring Boot API │
-                 └───────┬───┬──────┘
-                         │   │
-                    ┌────┘   └────┐
-                    ▼             ▼
-              PostgreSQL        Oracle
-                    │
-                    ▼
-               Firebase / FCM
+                         ┌─────────────────┐
+                         │ Android Client  │
+                         └────────┬────────┘
+                                  │
+                                  ▼
+                         ┌─────────────────┐
+                         │  Spring Boot    │
+                         │      API        │
+                         └───────┬─────────┘
+                                 │
+                       ┌─────────┴─────────┐
+                       │                   │
+                       ▼                   ▼
+                 PostgreSQL             Oracle
+                       │
+                       ▼
+                  Firebase / FCM
 ```
 
 **Stack**
 
-<img src="https://img.shields.io/badge/Java-38bdf8?style=flat-square&labelColor=0d1117">
-<img src="https://img.shields.io/badge/Android-00ff88?style=flat-square&labelColor=0d1117">
-<img src="https://img.shields.io/badge/Spring_Boot-a78bfa?style=flat-square&labelColor=0d1117">
-<img src="https://img.shields.io/badge/PostgreSQL-38bdf8?style=flat-square&labelColor=0d1117">
-<img src="https://img.shields.io/badge/Oracle-00ff88?style=flat-square&labelColor=0d1117">
-<img src="https://img.shields.io/badge/Firebase-a78bfa?style=flat-square&labelColor=0d1117">
+`Java` · `Android` · `Spring Boot` · `PostgreSQL` · `Oracle` · `Firebase` · `JWT`
 
 Mobile and backend platform focused on delivery supervision workflows, authentication, database integration and notifications.
 
@@ -275,36 +269,32 @@ Mobile and backend platform focused on delivery supervision workflows, authentic
 ### `03` — ENICarthage Forum
 
 ```text
-                      ┌─────────────┐
-                      │   Angular   │
-                      └──────┬──────┘
-                             │
-                             ▼
-                     ┌──────────────┐
-                     │ Spring Boot  │
-                     └──────┬───────┘
-                            │
-                ┌───────────┼───────────┐
-                ▼           ▼           ▼
-             MySQL       WebSocket      AI
-                │           │           │
-                └───────────┴───────────┘
+                         ┌──────────────┐
+                         │   Angular    │
+                         └──────┬───────┘
+                                │
+                                ▼
+                         ┌──────────────┐
+                         │ Spring Boot  │
+                         └──────┬───────┘
+                                │
+              ┌─────────────────┼─────────────────┐
+              │                 │                 │
+              ▼                 ▼                 ▼
+            MySQL           WebSockets            AI
 ```
 
 **Stack**
 
-<img src="https://img.shields.io/badge/Angular-00ff88?style=flat-square&labelColor=0d1117">
-<img src="https://img.shields.io/badge/Spring_Boot-38bdf8?style=flat-square&labelColor=0d1117">
-<img src="https://img.shields.io/badge/MySQL-a78bfa?style=flat-square&labelColor=0d1117">
-<img src="https://img.shields.io/badge/JWT-00ff88?style=flat-square&labelColor=0d1117">
-<img src="https://img.shields.io/badge/WebSockets-38bdf8?style=flat-square&labelColor=0d1117">
-<img src="https://img.shields.io/badge/Python-a78bfa?style=flat-square&labelColor=0d1117">
+`Angular` · `Spring Boot` · `MySQL` · `JWT` · `WebSockets` · `Python`
 
 Collaborative platform involving role-based workflows, task management, workshops, dashboards and AI-assisted functionality.
 
 ---
 
-## `06` <span style="color:#a78bfa">cat experience.log</span>
+<p align="center">
+  <img src="https://img.shields.io/badge/$%20cat%20experience.log-a78bfa?style=for-the-badge&labelColor=0d1117">
+</p>
 
 ```text
 2026
@@ -322,11 +312,11 @@ Collaborative platform involving role-based workflows, task management, workshop
 
 ---
 
-## `07` <span style="color:#00ff88">./engineering_philosophy.sh</span>
+<p align="center">
+  <img src="https://img.shields.io/badge/$%20./engineering_philosophy.sh-00ff88?style=for-the-badge&labelColor=0d1117">
+</p>
 
 ```text
-$ ./engineering_philosophy.sh
-
 [01] Understand the system before automating it.
 
 [02] Prefer reproducible environments over manual operations.
@@ -335,7 +325,7 @@ $ ./engineering_philosophy.sh
 
 [04] Build systems that can be tested and improved.
 
-[05] Learn by building real systems.
+[05] Learn by working with real infrastructure.
 
 [06] Break things. Debug them. Understand why they broke.
 
@@ -344,30 +334,34 @@ $ ./engineering_philosophy.sh
 
 ---
 
-## `08` <span style="color:#38bdf8">git status</span>
+<p align="center">
+  <img src="https://img.shields.io/badge/$%20git%20status-38bdf8?style=for-the-badge&labelColor=0d1117">
+</p>
 
 ```text
 On branch learning
 
 Changes not staged for commit:
 
-  modified:   AI
-  modified:   MLOps
-  modified:   DevOps
-  modified:   Infrastructure
+    modified:   AI
+    modified:   MLOps
+    modified:   DevOps
+    modified:   Infrastructure
 
 Untracked files:
 
-  curiosity/
-  experiments/
-  ideas/
+    curiosity/
+    experiments/
+    ideas/
 
 nothing to commit -- still building.
 ```
 
 ---
 
-## `09` <span style="color:#a78bfa">./connect.sh</span>
+<p align="center">
+  <img src="https://img.shields.io/badge/$%20./connect.sh-a78bfa?style=for-the-badge&labelColor=0d1117">
+</p>
 
 <p align="center">
   <a href="https://github.com/zgarnirawen">
@@ -375,13 +369,11 @@ nothing to commit -- still building.
   </a>
 </p>
 
-<p align="center">
-  <code>github.com/zgarnirawen</code>
-</p>
-
 ---
 
-## `10` <span style="color:#00ff88">./contributions</span>
+<p align="center">
+  <img src="https://img.shields.io/badge/$%20./contributions-00ff88?style=for-the-badge&labelColor=0d1117">
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zgarnirawen/zgarnirawen/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
@@ -390,17 +382,17 @@ nothing to commit -- still building.
 ---
 
 <p align="center">
-
-```text
-rawen@github:~$ systemctl status rawen
-
-● rawen.service
-  Active: active (learning)
-  Uptime: ongoing
-```
-
+  <img src="https://img.shields.io/badge/$%20systemctl%20status%20rawen-a78bfa?style=for-the-badge&labelColor=0d1117">
 </p>
 
+```text
+● rawen.service
+
+   Active: active (learning)
+   Focus : AI · MLOps · DevOps · Systems
+   Mode  : building / experimenting / deploying
+```
+
 <p align="center">
-  <code>AI × MLOps × DevOps × Systems</code>
+  <code>rawen@github:~$ _</code>
 </p>
